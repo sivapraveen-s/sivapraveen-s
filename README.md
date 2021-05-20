@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sivapraveen-s
-- 👀 I’m interested in Embedded Programming mainly focusing on writing low level driver code, firmware development and IOT technologies, which establishes modern secuirty and reliable in over small space.
+- 👀 I’m interested in Embedded Programming mainly focusing on writing low level driver code, firmware development and IOT technologies, which establishes modern security and reliable in over small space.
 - 🌱 I’m currently learning new Technologies
 - 💞️ I’m looking to collaborate on Project which focused on firmware development, IoT Projects and drivers.
 - 📫 How to reach me ...
